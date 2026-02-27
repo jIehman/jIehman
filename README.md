@@ -46,5 +46,5 @@ Focused on the intersection of low-level primitives and high-level product deliv
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>$\color{#FF3B30}{\text{STATUS: RESOLVING DISTRIBUTED CONSENSUS...}}$</code>
+ {STATUS: RESOLVING DISTRIBUTED CONSENSUS...)
 </p>
