@@ -38,6 +38,8 @@ Focused on the intersection of low-level primitives and high-level product deliv
 * **X**: [@jlehman_](https://x.com/jlehman_)
 * **INTEL**: [martian.engineering](https://martian.engineering/)
 * **SOURCE**: [@jalehman](https://github.com/jalehman)
+* **Donations [SOL]**: [solana](https://solscan.io/account/9UfdwPGqPKozGniRQUcj4tSsT17QM3LQJJGxu21GCYEi)
+* **Donations [EVM]**: [Ethereum](https://etherscan.io/address/0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97)
 
 ---
 
